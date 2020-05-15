@@ -1,0 +1,21 @@
+
+Emaile Udemy-Fav-Producer - siehe Smartphone-Doc.
+
+//--------------------------Logic------------------------------------------------------
+
+Use CodeVersioning - gitHub -> ToyAround with the VCS-category in Intelli.
+
+1. Weiter machen logic: ExceptionHandling noch nicht gut ->
+ Möchte, dass Textfeld nach doch noch korrekter Zahleingabe grün wird + styling + nun wird Text&&Errormessage
+nicht mehr rot, falls low > high - warum nicht?
+
+
+2. Add ToolTips for Buttons - wie z.B. "Close".
+
+3. Auch Message, dass bitte values eingegeben werden sollen, falls beide Zahl mit Default-Text belegt sind.
+//--------------------------Styling----------------------------------------------------
+
+
+//-------------------------At the End--------------------------------------------------
+ - Exe updaten.
+ - push auf mein github hoch.

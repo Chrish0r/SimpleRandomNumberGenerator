@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="SimpleRNG">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleRNG</output-path>
+    <root id="root">
+      <element id="archive" name="SimpleRNG.jar">
+        <element id="module-output" name="SimpleRNG" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/version1/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
